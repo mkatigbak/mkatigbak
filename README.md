@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning**.
 
-- 👨‍💻 Some of my projects are available at [https://github.com/mkatigbak?tab=repositories](https://github.com/mkatigbak?tab=repositories).
+- 👨‍💻 Some of my projects are available at [my repositories](https://github.com/mkatigbak?tab=repositories).
 
 - 📫 Contact me at **mark.katigbak@outlook.com**.
 

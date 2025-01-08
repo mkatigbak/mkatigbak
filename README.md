@@ -1,3 +1,5 @@
+<br clear="both" />
+
 <h2 align="left">Hi there! My name is Mark and I'm a Software Developer from Canada.</h2>
 
 <!-- ###

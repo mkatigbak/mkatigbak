@@ -72,9 +72,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<h3>Snake Contribution</h3>
-
-![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
